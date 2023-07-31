@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: lyx
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tPaFmSKuMTeeVX4DSA9
+    access-key-secret: mgC7aamJ7CTDNHod916cqNGZl5SYfD
+    bucket-name: sky-itcast1111
